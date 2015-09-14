@@ -2,7 +2,9 @@
 //CSE2
 //September 11, 2015
 //lab03
-//In this program, I will
+/*Here I will create a program that obtains the cost of a restaurant bill, 
+the percentage tip the users wish to pay, and the number of ways the check will be split
+to determine how much each person will pay*/
 
 import java.util.Scanner; //this command imports the Scanner Class
 
